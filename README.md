@@ -2,9 +2,7 @@
 
 Requirements -:
 - Python 3.8.13
-- torch==1.12.1+cpu
-- torchaudio==0.12.1+cpu
-- torchvision==0.13.1+cpu
+- tensorflow==2.10.0
 - matplotlib==3.6.0
 ### How to Run
 
@@ -17,12 +15,4 @@ Requirements -:
 - Torch Example 
     ```
     python torch_example.py
-    ```
-- Torchvision Example
-    ```
-    python torchvision_example.py
-    ```
-- Torchaudio Example
-    ```
-    python torchaudio_example.py
     ```
