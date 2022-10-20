@@ -1,4 +1,4 @@
-# neurolab--pytorch
+# neurolab--tensorflow
 
 Requirements -:
 - Python 3.8.13
@@ -12,7 +12,7 @@ Requirements -:
     pip install -r requirements.txt
     ```
 
-- Torch Example 
+- tensorflow Example 
     ```
-    python torch_example.py
+    python tensorflow_example.py
     ```
